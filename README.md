@@ -22,4 +22,26 @@ Vibe Coding - Part of your project code was written by AI - 2 points
 
 # Why I earned these points
 
-Web/Desktop UI - The interface has some issues, however the interface is fairly simple and the more difficult parts of the game are non-neccecary to play the game. 
+Web/Desktop UI - The interface has some issues, however the interface is fairly simple and the more difficult parts of the game are non-necessary to play the game. 
+
+Hosting - I used github to publish and host my website/game online.
+
+Content Creation - I used Ai to generate the images within the sight and the favicon.
+
+Vibe Coding - Ai wrote all the code and I reviewed what I understood. I asked Gemini to update the code and fix any bugs.
+
+# How to play The Game
+
+The game is the cup game, or shell game. You select the mode that you desire, Medium is the default, there are 7 different modes within this game site. In order of difficulty, easiest to hardest: Baby, Easy, Medium, Hard, Extreme, Impossible and True Impossible.
+
+Once you have selected a game difficulty press the "Start Game" button on the bottom of the display box. This will start the game, keep your eyes on the cup with the ball under it.
+
+Once the cups have stopped moving you will be prompted by the game (under the cup display) to pick the cup you believe you think has the ball. If you win you will be granted a (fake) cash reward! The reward is based off of the amount yoy bet and the difficulty of the mode.
+
+## The Additional inputs
+
+This is the additional functions of the game, including betting, mode, and debugger mode.
+
+### Betting
+
+The left most input, above the start game button and the cup display. You can either use two arrows in the amount display, or type in the value yourself.
