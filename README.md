@@ -22,4 +22,4 @@ Vibe Coding - Part of your project code was written by AI - 2 points
 
 # Why I earned these points
 
-Web/Desktop UI -
+Web/Desktop UI - The interface has some issues, however the interface is fairly simple and the more difficult parts of the game are non-neccecary to play the game. 
