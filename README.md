@@ -13,16 +13,16 @@ This game is also called the shell game, and dates back to ancient greece.
 
 This project is our last major project for my Intro To Ai class. We were given a rubric stating that we had to reach ten points to get the full credit. We had to choose requirements to match at least 10 points, each requirement gave us a certain amount of points. I have chosen 4 requirements that add to a total of 14 points.
 
-# The chosen requirements
+## The chosen requirements
 
 Web/Desktop UI - Your project has a user friendly web UI - 4 points
 Hosting - Part of your project is hosted on a server (Your app is live on the internet.) - 3 points
 Content Creation - Your project uses AI generated audio, video, or images - 5 points
 Vibe Coding - Part of your project code was written by AI - 2 points
 
-# Why I earned these points
+## Why I earned these points
 
-Web/Desktop UI - The interface has some issues, however the interface is fairly simple and the more difficult parts of the game are non-necessary to play the game. 
+Web/Desktop UI - The interface has some issues, however the interface is fairly simple and the more difficult parts of the game are non-necessary to play the game.
 
 Hosting - I used github to publish and host my website/game online.
 
@@ -45,3 +45,25 @@ This is the additional functions of the game, including betting, mode, and debug
 ### Betting
 
 The left most input, above the start game button and the cup display. You can either use two arrows in the amount display, or type in the value yourself.
+
+### Mode
+
+This is a select that you can select your game mode. The 7 game modes are displayed on the first click, then you select your choice on the second click over your desired choice.
+
+#### The Game modes
+
+#### Baby Mode
+
+Three transparent cups shuffle slowly, the ball visible at all times.
+
+#### Easy
+
+Three cups are shuffled at a slow rate.
+
+#### Medium
+
+Three cups are shuffled at a decent rate.
+
+#### Hard
+
+Three cups are shuffled at a fast rate.
