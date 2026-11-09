@@ -52,18 +52,34 @@ This is a select that you can select your game mode. The 7 game modes are displa
 
 #### The Game modes
 
-#### Baby Mode
+##### Baby Mode
 
 Three transparent cups shuffle slowly, the ball visible at all times.
 
-#### Easy
+##### Easy Mode
 
 Three cups are shuffled at a slow rate.
 
-#### Medium
+##### Medium Mode
 
 Three cups are shuffled at a decent rate.
 
-#### Hard
+##### Hard Mode
 
 Three cups are shuffled at a fast rate.
+
+##### Extreme Mode
+
+Three cups shuffle at a fast rate, then each cup has a ~35% chance for a ball to spawn under each cup.
+
+##### Impossible Mode
+
+100 cups shuffle at a very fast rate, each cup moving to its next spot almost instantly, one at a time.
+
+##### True Impossible Mode
+
+100 cups slide into the middle then expand out, then they shuffle in the same way as 'Impossible Mode.' There is a secret trick to this mode, can you find it?
+
+### Debugger Mode
+
+This toggle turns the cup with the ball under it blue. I used this to check if the ball was jumping between cups in the earlier stages of this vibe coding process.
